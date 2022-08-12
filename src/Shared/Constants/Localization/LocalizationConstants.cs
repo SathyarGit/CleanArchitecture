@@ -25,13 +25,18 @@
             },
             new LanguageCode
             {
+                Code = "nl-NL",
+                DisplayName = "Dutch - Netherlands"
+            },
+            new LanguageCode
+            {
                 Code = "es-ES",
-                DisplayName = "Español"
+                DisplayName = "Spanish"
             },
             new LanguageCode
             {
                 Code = "ru-RU",
-                DisplayName = "Русский"
+                DisplayName = "Russian"
             },
             new LanguageCode
             {
@@ -47,6 +52,11 @@
             {
                 Code = "it-IT",
                 DisplayName = "Italian"
+            },
+            new LanguageCode
+            {
+                Code = "ar",
+                DisplayName = "عربي"
             }
         };
     }
